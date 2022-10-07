@@ -1,3 +1,7 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+# czeditor
+
 Fully functional Video editing software - for all computers .
 
 After finishing this video editing software will going to support to all pcs and macs
@@ -5,7 +9,7 @@ After finishing this video editing software will going to support to all pcs and
 This application mainly targeted for old and lower hardwares like core2 duo and pentium series.
 It's also compatible with latest generation of hardwares and CPUs.
 
-It's in alpha stage and currently supporting Windows 2000 ,XP,Windows 7 
+It's in alpha stage and currently supporting Windows 2000, XP, Windows 7 
 macs and Ubuntu linux is also supported.
 
 if you want to contribute , you can do just went to github and fork the repo and start wotking on it.
